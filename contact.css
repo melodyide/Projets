@@ -3,3 +3,36 @@
     background-position: fixed;
     text-align: center;
 }
+
+h1{
+
+}
+
+h2{
+
+}
+
+h3{
+
+}
+
+h4{
+
+}
+
+p{
+
+}
+
+#social{
+    display: inline-flex;
+}
+
+#fb{
+    height: 2rem;
+    margin-right: 1rem;
+}
+
+#insta{
+    height: 2rem;
+}
