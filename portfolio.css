@@ -1,4 +1,28 @@
-*{
-    background-image: url(/images/starry-night.jpg);
-    
+body{
+    background-repeat: no-repeat;
+    position: absolute;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/2560px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg");
+    background-size: cover;
+    color: #2D2679;
+    text-shadow: white 1px 1px 0px,
+                 white -1px -1px 0px,
+                 white -1px 1px 0px,
+                 white 1px -1px 0px;
+    font-size: 2.4rem;
+}
+
+#photo{
+    margin-left: 20rem;
+}
+
+#projects{
+
+}
+
+#contact{
+
+}
+
+#about{
+
 }
