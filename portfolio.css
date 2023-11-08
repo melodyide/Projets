@@ -9,20 +9,56 @@ body{
                  white -1px 1px 0px,
                  white 1px -1px 0px;
     font-size: 2.4rem;
+    height: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+a:focus{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:active{
+    text-decoration: none;
 }
 
 #photo{
-    margin-left: 20rem;
+    margin-left: 35rem;
+    margin-top: 16rem;
+    position: fixed;
+    border-radius: 90px;
+    width: 12rem;
+    height: auto;
 }
 
 #projects{
-
+    margin-left: 25rem;
+    margin-top: 34rem;
+    position: fixed;
 }
 
 #contact{
-
+    margin-left: 73rem;
+    margin-top: 10rem;
+    position: fixed;
 }
 
 #about{
-
+    margin-left: 55rem;
+    margin-top: 30rem;
+    position: fixed;
 }
