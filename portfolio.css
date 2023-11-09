@@ -1,6 +1,7 @@
 body{
     background-repeat: no-repeat;
     position: absolute;
+    background-color: #769ABB;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/2560px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg");
     background-size: cover;
     color: #2D2679;
@@ -58,6 +59,42 @@ a:active{
     margin-left: 25rem;
     margin-top: 34rem;
     position: fixed;
+}
+
+/*.logoprojects{
+    display: none;
+}*/
+
+#link{
+    margin-left: 25rem;
+    margin-top: 32rem;
+    position: fixed;
+    height: 2rem;
+    border-radius: 30px;
+}
+
+#atelier{
+    margin-left: 27rem;
+    margin-top: 36rem;
+    position: fixed;
+    height: 2rem;
+    border-radius: 30px;
+}
+
+#webdesign{
+    margin-left: 27rem;
+    margin-top: 38rem;
+    position: fixed;
+    height: 2rem;
+    border-radius: 30px;
+}
+
+#teacozy{
+    margin-left: 29rem;
+    margin-top: 32rem;
+    position: fixed;
+    height: 2rem;
+    border-radius: 30px;
 }
 
 #contact{
