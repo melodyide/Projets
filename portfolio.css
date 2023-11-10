@@ -1,6 +1,7 @@
 body{
     background-repeat: no-repeat;
-    position: absolute;
+    background-position-y: -2rem;
+    position:static;
     background-color: #769ABB;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/2560px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg");
     background-size: cover;
@@ -9,8 +10,9 @@ body{
                  white -1px -1px 0px,
                  white -1px 1px 0px,
                  white 1px -1px 0px;
-    font-size: 2.4rem;
-    height: 100%;
+    font-size: 2.4rem;    
+    width: 95%;
+    min-height: 110%;
 }
 
 a{
@@ -39,7 +41,7 @@ a:active{
 
 #photo{
     margin-left: 35rem;
-    margin-top: 16rem;
+    margin-top: 14rem;
     position: fixed;
     border-radius: 90px;
     width: 12rem;
@@ -49,7 +51,7 @@ a:active{
 
 #melo{
     margin-left: 36.5rem;
-    margin-top: 25rem;
+    margin-top: 23rem;
     position: fixed;
     border-radius: 90px;
     font-size: 2rem;
@@ -57,54 +59,58 @@ a:active{
 
 #projects{
     margin-left: 25rem;
-    margin-top: 34rem;
+    margin-top: 32rem;
     position: fixed;
 }
 
-/*.logoprojects{
+.logoprojects{
     display: none;
-}*/
+}
 
 #link{
-    margin-left: 25rem;
-    margin-top: 32rem;
+    margin-left: 27rem;
+    margin-top: 28rem;
     position: fixed;
-    height: 2rem;
+    height: 3rem;
+    width: 3rem;
     border-radius: 30px;
 }
 
 #atelier{
-    margin-left: 27rem;
-    margin-top: 36rem;
+    margin-left: 35rem;
+    margin-top: 33rem;
     position: fixed;
-    height: 2rem;
+    height: 3rem;
+    width: 3rem;
     border-radius: 30px;
 }
 
 #webdesign{
-    margin-left: 27rem;
-    margin-top: 38rem;
+    margin-left: 30rem;
+    margin-top: 36rem;
     position: fixed;
-    height: 2rem;
+    height: 3rem;
+    width: 3rem;
     border-radius: 30px;
 }
 
 #teacozy{
-    margin-left: 29rem;
-    margin-top: 32rem;
+    margin-left: 32rem;
+    margin-top: 29rem;
     position: fixed;
-    height: 2rem;
+    height: 3rem;
+    width: 3rem;
     border-radius: 30px;
 }
 
 #contact{
     margin-left: 73rem;
-    margin-top: 10rem;
+    margin-top: 8rem;
     position: fixed;
 }
 
 #about{
     margin-left: 55rem;
-    margin-top: 30rem;
+    margin-top: 28rem;
     position: fixed;
 }
