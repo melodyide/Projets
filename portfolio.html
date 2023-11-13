@@ -5,18 +5,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="portfolio.css">
+    <script src="portfolio.js" async></script>
     <title>My portfolio</title>
 </head>
 <body>
-    <div><img src="https://scontent.fbru5-1.fna.fbcdn.net/v/t39.30808-6/223595289_10159227845446992_5171225349944283067_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=P2xP8F2LVW4AX8wrFGY&_nc_ht=scontent.fbru5-1.fna&oh=00_AfCchbUP6-fIzdqkGHUCxbMAwT-D4YZmEhf-5LV2bgLomQ&oe=6551164F" alt="portrait of Melody Ide"  id="photo">
+    <div>
+        <img src="https://scontent.fbru5-1.fna.fbcdn.net/v/t39.30808-6/223595289_10159227845446992_5171225349944283067_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=P2xP8F2LVW4AX8wrFGY&_nc_ht=scontent.fbru5-1.fna&oh=00_AfCchbUP6-fIzdqkGHUCxbMAwT-D4YZmEhf-5LV2bgLomQ&oe=6551164F" alt="portrait of Melody Ide"  id="photo">
         <div id="melo">Melody Ide</div>
     </div>
-    <div id="projects">Projects</div>
-    <img src="./images/71.jpg" alt="logo atelier 71" class="logoprojects" id="atelier" />
-    <img src="./images/git.png" alt="logo webdesign" class="logoprojects" id="webdesign" />
-    <img src="./images/link.jpg" alt="logo link cheat sheet" class="logoprojects" id="link" />
-    <img src="./images/tea-cozy.webp" alt="logo tea-cozy" class="logoprojects" id="teacozy" />
-    <div id="contact"><a href="./contact.html">Contact</a></div>
+    <div id="projects">
+        <button id="projectsbtn" type="button" onclick="show()">Projects</button>
+    </div>
+    <div id="logos">
+        <img src="./images/71.jpg" alt="logo atelier 71" class="logoprojects" id="atelier" />
+        <img src="./images/git.png" alt="logo webdesign" class="logoprojects" id="webdesign" />
+        <img src="./images/link.jpg" alt="logo link cheat sheet" class="logoprojects" id="link" />
+        <img src="./images/tea-cozy.webp" alt="logo tea-cozy" class="logoprojects" id="teacozy" />
+    </div>
+    <div id="contact">
+        <a href="./contact.html">Contact</a></div>
     <div id="about">About</div>
 </body>
 </html>

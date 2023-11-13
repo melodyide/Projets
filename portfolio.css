@@ -63,7 +63,18 @@ a:active{
     position: fixed;
 }
 
-.logoprojects{
+#projectsbtn{
+    color: #2D2679;
+    text-shadow: white 1px 1px 0px,
+                 white -1px -1px 0px,
+                 white -1px 1px 0px,
+                 white 1px -1px 0px;
+    font-size: 2.4rem;  
+    background-color: transparent;
+    border: none;
+}
+
+#logos{
     display: none;
 }
 
