@@ -74,6 +74,18 @@ a:active{
     border: none;
 }
 
+#projectsbtnhide{
+    color: #2D2679;
+    text-shadow: white 1px 1px 0px,
+                 white -1px -1px 0px,
+                 white -1px 1px 0px,
+                 white 1px -1px 0px;
+    font-size: 2.4rem;  
+    background-color: transparent;
+    border: none;
+    display: none;
+}
+
 #logos{
     display: none;
 }
@@ -124,4 +136,40 @@ a:active{
     margin-left: 55rem;
     margin-top: 28rem;
     position: fixed;
+}
+
+#aboutbtn{
+    color: #2D2679;
+    text-shadow: white 1px 1px 0px,
+                 white -1px -1px 0px,
+                 white -1px 1px 0px,
+                 white 1px -1px 0px;
+    font-size: 2.4rem;  
+    background-color: transparent;
+    border: none;
+}
+
+#abouttext{
+    display: none;
+    margin-left: 52rem;
+    margin-top: 13rem;
+    position: fixed;
+    background-color: #161246;
+    font-size: 1.2rem;
+    width: 20%;
+    text-align: justify;
+    text-shadow: none;
+    padding: 0rem 1rem;
+    border-radius: 20px;
+    color: #8b82ec;
+}
+
+#hideabout{
+    text-align: center;
+    background-color: transparent;
+    color: #8b82ec;
+    border: none;
+    margin-left: 45%;
+    margin-bottom: 1rem;
+    font-weight: bold;
 }
