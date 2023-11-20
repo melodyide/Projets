@@ -65,6 +65,12 @@ p{
     height: 2rem;
 }
 
+#backbtn{
+    font-size: 0.8rem;
+    text-decoration: none;
+    text-shadow: none;
+}
+
 @media screen and (max-width: 600px) {
     body{
         padding: 10px;
