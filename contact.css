@@ -65,3 +65,10 @@ p{
 #insta{
     height: 2rem;
 }
+
+@media screen and (max-width: 600px) {
+    *{
+        margin-top: -5px;
+        padding: 10px;
+    }
+}

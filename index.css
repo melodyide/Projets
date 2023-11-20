@@ -177,7 +177,7 @@ a:active{
 }
 
 @media only screen and (max-width: 600px) {
-    body{
+    *{
         background-image: none;
         background: #769ABB;
         font-size: 12px;
