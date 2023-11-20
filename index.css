@@ -181,5 +181,6 @@ a:active{
         background-image: none;
         background: #769ABB;
         font-size: 1rem;
+        text-align: center;
     }
 }
