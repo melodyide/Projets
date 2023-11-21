@@ -189,7 +189,9 @@ a:active{
     #photo{
         width: 6rem;
         height: auto;
-        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     
     
