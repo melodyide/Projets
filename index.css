@@ -134,10 +134,10 @@ a:active{
 #abouttext{
     display: none;
     background-color: #161246;
-    width: 70%;
     text-align: justify;
     text-shadow: none;
     padding: 1rem;
+    font-size: 18px;
     border-radius: 20px;
     color: #8b82ec;
 }
@@ -164,7 +164,7 @@ a:active{
     }
 
     #photo{
-        margin-left: 35rem;
+        margin-left: 15rem;
         margin-top: 14rem;
         position: fixed;
         border-radius: 90px;
