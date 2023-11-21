@@ -46,8 +46,8 @@ a:active{
     border-radius: 90px;
 }
 
-#projects{
-    
+#projects{    
+    margin: 0 auto;
 }
 
 #projectsbtn{
@@ -58,7 +58,8 @@ a:active{
                  white 1px -1px 0px;
     background-color: transparent;
     border: none;
-    font-family: 'Irish Grover';
+    font-family: 'Irish Grover';    
+    margin: 0 auto;
 }
 
 #projectsbtnhide{
@@ -71,6 +72,7 @@ a:active{
     border: none;
     display: none;
     font-family: 'Irish Grover';
+    margin: 0 auto;
 }
 
 #logos{
@@ -106,11 +108,11 @@ a:active{
 }
 
 #contact{
-    position: fixed;
+    margin: 0 auto;
 }
 
 #about{
-    position: fixed;
+    margin: 0 auto;
 }
 
 #aboutbtn{
