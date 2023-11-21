@@ -166,7 +166,8 @@ a:active{
     }
 
     #photo{
-        margin-top: 14rem;
+        margin-top: 12rem;
+        margin-left: -6rem;
         position: fixed;
         border-radius: 90px;
         width: 12rem;
