@@ -215,7 +215,7 @@ a:active{
     }
     
     #link{
-        margin-left: 27rem;
+        margin-left: -7rem;
         margin-top: 28rem;
         position: fixed;
         height: 3rem;
@@ -224,7 +224,7 @@ a:active{
     }
     
     #atelier{
-        margin-left: 35rem;
+        margin-left: -9rem;
         margin-top: 33rem;
         position: fixed;
         height: 3rem;
@@ -233,7 +233,7 @@ a:active{
     }
     
     #webdesign{
-        margin-left: 30rem;
+        margin-left: -9rem;
         margin-top: 36rem;
         position: fixed;
         height: 3rem;
@@ -242,7 +242,7 @@ a:active{
     }
     
     #teacozy{
-        margin-left: 32rem;
+        margin-left: -5rem;
         margin-top: 29rem;
         position: fixed;
         height: 3rem;
