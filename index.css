@@ -148,8 +148,8 @@ a:active{
     background-color: transparent;
     color: #8b82ec;
     border: none;
-    margin-left: 85%;
-    margin-top: 1rem;
+    margin-left: 75%;
+    margin-top: 0.5rem;
     font-weight: bold;
 }
 
@@ -167,7 +167,7 @@ a:active{
 
     #photo{
         margin-top: 12rem;
-        margin-left: -6rem;
+        margin-left: -7rem;
         position: fixed;
         border-radius: 90px;
         width: 12rem;
