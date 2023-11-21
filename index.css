@@ -1,4 +1,4 @@
-*{
+body{
     background: #769ABB;
     font-size: 24px;
     text-align: center;
@@ -37,12 +37,13 @@ a:active{
 #photo{
     width: 8rem;
     height: auto;
-    border-radius: 30px;
+    border-radius: 90px;
     margin: 0 auto;
 }
 
 #melo{
     border-radius: 90px;
+    margin-bottom: 10%;
 }
 
 #projects{    
@@ -127,9 +128,8 @@ a:active{
 
 #abouttext{
     display: none;
-    position: fixed;
     background-color: #161246;
-    width: 20%;
+    width: 50%;
     text-align: justify;
     text-shadow: none;
     padding: 0rem 1rem;
