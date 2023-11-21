@@ -140,6 +140,7 @@ a:active{
     font-size: 18px;
     border-radius: 20px;
     color: #8b82ec;
+    margin-top: 2rem;
 }
 
 #hideabout{
@@ -147,7 +148,8 @@ a:active{
     background-color: transparent;
     color: #8b82ec;
     border: none;
-    margin-left: 45%;
+    margin-left: 95%;
+    margin-top: 2rem;
     font-weight: bold;
 }
 
