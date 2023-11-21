@@ -83,28 +83,24 @@ a:active{
 }
 
 #link{
-    position: fixed;
     height: 3rem;
     width: 3rem;
     border-radius: 30px;
 }
 
 #atelier{
-    position: fixed;
     height: 3rem;
     width: 3rem;
     border-radius: 30px;
 }
 
 #webdesign{
-    position: fixed;
     height: 3rem;
     width: 3rem;
     border-radius: 30px;
 }
 
 #teacozy{
-    position: fixed;
     height: 3rem;
     width: 3rem;
     border-radius: 30px;
