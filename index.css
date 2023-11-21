@@ -38,7 +38,7 @@ a:active{
     width: 8rem;
     height: auto;
     border-radius: 90px;
-    margin: 0 auto;
+    margin: 10% auto 0 auto;
 }
 
 #melo{
@@ -48,6 +48,7 @@ a:active{
 
 #projects{    
     margin: 0 auto;
+    font-size: 24px;
 }
 
 #projectsbtn{
@@ -60,6 +61,7 @@ a:active{
     border: none;
     font-family: 'Irish Grover';    
     margin: 0 auto;
+    font-size: 24px;
 }
 
 #projectsbtnhide{
@@ -73,6 +75,7 @@ a:active{
     display: none;
     font-family: 'Irish Grover';
     margin: 0 auto;
+    font-size: 24px;
 }
 
 #logos{
@@ -113,6 +116,7 @@ a:active{
 
 #about{
     margin: 0 auto;
+    font-size: 24px;
 }
 
 #aboutbtn{
@@ -124,15 +128,16 @@ a:active{
     background-color: transparent;
     border: none;
     font-family: 'Irish Grover';
+    font-size: 24px;
 }
 
 #abouttext{
     display: none;
     background-color: #161246;
-    width: 50%;
+    width: 70%;
     text-align: justify;
     text-shadow: none;
-    padding: 0rem 1rem;
+    padding: 1rem;
     border-radius: 20px;
     color: #8b82ec;
 }
