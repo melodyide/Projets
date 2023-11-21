@@ -185,4 +185,71 @@ a:active{
         max-width: 600px;
         overflow: scroll;
     }
+
+    #photo{
+        margin-left: 3rem;
+        margin-top: 1rem;
+        width: 3rem;
+        height: auto;
+    }
+    
+    
+    #melo{
+        margin-left: 2.4rem;
+        margin-top: 4rem;
+    }
+    
+    #projects{
+        margin-left: 3rem;
+        margin-top: 6rem;
+    }
+    
+    #link{
+        margin-left: 4rem;
+        margin-top: 5rem;
+        height: 3rem;
+        width: 3rem;
+    }
+    
+    #atelier{
+        margin-left: 5rem;
+        margin-top: 5.5rem;
+        height: 3rem;
+        width: 3rem;
+    }
+    
+    #webdesign{
+        margin-left: 5rem;
+        margin-top: 6rem;
+        height: 3rem;
+        width: 3rem;
+    }
+    
+    #teacozy{
+        margin-left: 4rem;
+        margin-top: 7rem;
+        height: 3rem;
+        width: 3rem;
+    }
+    
+    #contact{
+        margin-left: 3rem;
+        margin-top: 8rem;
+    }
+    
+    #about{
+        margin-left: 3rem;
+        margin-top: 9rem;
+    }
+    
+    #abouttext{
+        margin-left: 2rem;
+        margin-top: 11rem;
+        width: 20%;
+        padding: 0rem 1rem;
+    }
+    
+    #hideabout{
+        margin-left: 45%;
+    }
 }
